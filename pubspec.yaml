@@ -84,7 +84,7 @@ dependencies:
   url_launcher: ^6.3.2
 
   # ── Typographie Inter (CuniUI Design System — Phase R1) ──
-  google_fonts: ^6.2.1
+  google_fonts: ^8.1.0
 
 dev_dependencies:
   sentry_dart_plugin: ^3.3.0
