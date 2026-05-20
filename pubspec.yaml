@@ -32,7 +32,7 @@ dependencies:
   cupertino_icons: ^1.0.6
 
   # ── Graphiques ──
-  fl_chart: ^0.68.0
+  fl_chart: ^1.2.0
 
   # ── Calendrier mensuel des tâches (V2.5 — Phase 4) ──
   table_calendar: ^3.1.2
